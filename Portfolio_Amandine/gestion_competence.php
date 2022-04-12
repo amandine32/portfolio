@@ -1,0 +1,1 @@
+<?php require_once("vue/vue_competence.php"); ?>
